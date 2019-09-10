@@ -1,0 +1,6 @@
+
+entity UrlMapping {
+    url_long String
+    url_short String
+    type Integer
+}
