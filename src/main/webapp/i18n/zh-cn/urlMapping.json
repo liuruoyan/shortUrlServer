@@ -1,0 +1,24 @@
+{
+  "shortUrlServerApp": {
+    "urlMapping": {
+      "home": {
+        "title": "Url Mappings",
+        "createLabel": "创建新 Url Mapping",
+        "createOrEditLabel": "创建或编辑 Url Mapping",
+        "notFound": "No Url Mappings found"
+      },
+      "created": "Url Mapping {{ param }} 创建成功",
+      "updated": "Url Mapping {{ param }} 更新成功",
+      "deleted": "Url Mapping {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Url Mapping {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Url Mapping"
+      },
+      "urlLong": "Url Long",
+      "urlShort": "Url Short",
+      "type": "Type"
+    }
+  }
+}

@@ -1,6 +1,12 @@
 
 entity UrlMapping {
-    url_long String
-    url_short String
+    urlLong String
+    urlShort String
     type Integer
 }
+
+
+paginate * with pagination
+service * with serviceImpl
+// dto * with mapstruct
+filter *
